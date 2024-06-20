@@ -1,12 +1,3 @@
-The API offers one endpoint to access and resize photos available in the public/photos/full folder.
-
-The endpoint is api/photos
-
-An example of a correct endpoint call would be:
-
-http://localhost:3000/api/photos?filename=fjord&height=200&width=200
-
-
 # Image Processing API
 ![Screenshot 2024-06-20 131615](https://github.com/MinaSaber/Image-Processing-API/assets/67694375/142c40d0-9efe-4af5-a000-0f5bc8149a4f)
 
@@ -24,7 +15,6 @@ Before you start, ensure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-   ```bash
 git clone https://github.com/your-username/image-processing-api.git
 cd image-processing-api
 2. Install the dependencies:
