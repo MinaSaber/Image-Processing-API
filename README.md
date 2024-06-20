@@ -15,7 +15,7 @@ Before you start, ensure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/your-username/image-processing-api.git
+git clone https://github.com/MinaSaber/image-processing-api.git
 cd image-processing-api
 2. Install the dependencies:
 npm install
